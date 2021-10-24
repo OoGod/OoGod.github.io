@@ -105,4 +105,4 @@ deploy:
   #type: ''
   type: git
   repo: https://github.com/OoGod/OoGod.github.io
-  branch: gh-pages
+  branch: master
