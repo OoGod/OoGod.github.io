@@ -102,7 +102,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
-  #type: git
-  #repo: https://github.com/OoGod/OoGod.github.io
-  #branch: master
+  #type: ''
+  type: git
+  repo: https://github.com/OoGod/OoGod.github.io
+  branch: gh-pages
