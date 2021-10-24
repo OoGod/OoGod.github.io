@@ -102,6 +102,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: https://github.com/OoGod/OoGod.github.io
-  branch: master
+  type: ''
+  #type: git
+  #repo: https://github.com/OoGod/OoGod.github.io
+  #branch: master
