@@ -23,5 +23,8 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
     "hexo-theme-landscape": "^0.0.3"
+  },
+  "devDependencies": {
+    "hexo-renderer-jade": "^0.5.0"
   }
 }
